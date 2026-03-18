@@ -68,15 +68,6 @@ streamlit run app.py
 
 ---
 
-## 部署到 Streamlit Cloud
-
-1. Fork 本项目到你的 GitHub
-2. 登录 [share.streamlit.io](https://share.streamlit.io)
-3. 选择仓库 → 主文件填 `app.py` → Deploy
-
-DeepSeek API Key 在侧边栏输入，不需要写入代码。
-
----
 
 ## 项目背景
 
